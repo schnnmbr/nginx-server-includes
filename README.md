@@ -1,4 +1,4 @@
 # Server
 ======
 
-important server configuration files
+Important server configuration files
